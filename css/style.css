@@ -62,9 +62,9 @@ p.project{
 }
 	
     .v-header{
-  height:550px;
+  height:650px;
   margin-top: 10px;
-  display:flex;
+
   align-items:center;
   color:#fff;
 }
@@ -83,7 +83,7 @@ p.project{
   position: absolute;
   top:0;
   left:0;
-  width:100vw;
+  width:100%;
   z-index:1;
   background:black;
   opacity:0.80;
