@@ -1280,7 +1280,7 @@ section#contact {
   background:url(../img/contactbg.png);
   background-color: #000;
   background-repeat: no-repeat;
-  background-position: bottom left;
+  background-position: center left;
   padding-top: 50px !important;
   padding: 15px;
 }
