@@ -60,6 +60,13 @@ p.project{
     font-family: 'Roboto', sans-serif;
     
 }
+	
+.v-header{
+  height:500px;
+  display:flex;
+  align-items:center;
+  color:#fff;
+}
     
     p.sub2{
     
@@ -88,11 +95,6 @@ p.project{
     margin-top: 10px; !important;
     font-family: 'Roboto', sans-serif;
     
-}
-	
-.fullscreen-video-wrap video{
-  height: 500px;
-  min-width:100%;
 }
     
        p.sub2{
