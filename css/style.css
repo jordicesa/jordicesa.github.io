@@ -63,12 +63,31 @@ p.project{
 	
     .v-header{
   height:550px;
-  margin-top: 60px;
+  margin-top: 10px;
   display:flex;
   align-items:center;
   color:#fff;
 }
     
+    .fullscreen-video-wrap{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:650px;
+  overflow:hidden;
+}
+
+    .header-overlay{
+  height:650px !important;
+  position: absolute;
+  top:0;
+  left:0;
+  width:100vw;
+  z-index:1;
+  background:black;
+  opacity:0.80;
+}
     
     p.sub2{
     
