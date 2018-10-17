@@ -89,6 +89,11 @@ p.project{
     font-family: 'Roboto', sans-serif;
     
 }
+	
+.fullscreen-video-wrap video{
+  height: 500px;
+  min-width:100%;
+}
     
        p.sub2{
     
